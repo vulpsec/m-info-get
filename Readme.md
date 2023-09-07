@@ -5,7 +5,7 @@ Bir IP , Telefon numarası veyahut Nickname üzerinden yasal çerçeve kapsamın
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/m-info-get
+git clone https://github.com/morbius-os/m-info-get
 
 cd m-info-get
 
