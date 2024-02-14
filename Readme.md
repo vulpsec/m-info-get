@@ -9,6 +9,8 @@ git clone https://github.com/morbius-os/m-info-get
 
 cd m-info-get
 
+cd m-info-get
+
 python3 m-info-get.py 
 ```
 
